@@ -1,0 +1,14 @@
+title: FSDM 2008
+description: > # this means to ignore newlines until "baseurl:"
+  New challenges for feature selection in data mining and knowledge discovery 
+September 15, 2008, Antwerp, Belgium
+baseurl: "/v4"
+volume: 4
+date: 2008-09-11
+url: "http://proceedings.mlr.press"
+twitter_username: mlresearch
+github_username:  mlresearch
+
+# Build settings
+markdown: kramdown
+theme: minima
