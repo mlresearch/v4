@@ -19,12 +19,12 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: SaeysYLHIIWLPd2008
+id: SaeysYLHIIWLPd2008
 month: 0
 abstract: 
 origpdf: 
 pdf: "./SaeysYLHIIWLPd2008/SaeysYLHIIWLPd2008.pdf"
-editors:
+editor:
 - given: Yvan
   family: Saeys
 - given: Huan
