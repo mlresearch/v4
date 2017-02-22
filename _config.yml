@@ -11,7 +11,7 @@ end: 2008-09-15
 published: 2008-09-11
 address: Antwerp, Belgium
 conference_url: http://bioinformatics.psb.ugent.be/fsdm2008
-comments: true
+comments: 'no'
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
