@@ -13,7 +13,7 @@ abstract: 'Sponsored search is a new application domain for the feature selectio
   past users’ queries. Unlike previous work in this area, our approach not only  recognizes
   the most profitable keywords, but also discovers more specific combinations  of
   keywords and other relevant words.'
-pdf: http://proceedings.pmlr.press/kiritchenko08a/kiritchenko08a.pdf
+pdf: http://proceedings.pmlr.press/v/kiritchenko08a/kiritchenko08a.pdf
 layout: inproceedings
 id: kiritchenko08a
 month: 0
