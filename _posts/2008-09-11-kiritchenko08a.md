@@ -28,6 +28,7 @@ author:
 - given: Mikhail
   family: Jiline
 date: 2008-09-11
+address: Antwerp, Belgium
 publisher: PMLR
 container-title: New challenges for feature selection in data mining and knowledge
   discovery
