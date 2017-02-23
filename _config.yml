@@ -9,8 +9,6 @@ shortname: FSDM
 start: 2008-09-15
 end: 2008-09-15
 published: 2008-09-11
-address: Antwerp, Belgium
-conference_url: http://bioinformatics.psb.ugent.be/fsdm2008
 comments: 'no'
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
@@ -21,22 +19,21 @@ sections:
 layout: proceedings
 id: SaeysYLHIIWLPd2008
 month: 0
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./SaeysYLHIIWLPd2008/SaeysYLHIIWLPd2008.pdf"
+pdf: http://proceedings.pmlr.press/SaeysYLHIIWLPd2008/SaeysYLHIIWLPd2008.pdf
 editor:
 - given: Yvan
   family: Saeys
 - given: Huan
   family: Liu
-- given: I\~{n}aki
+- given: Iñaki
   family: Inza
 - given: Louis
   family: Wehenkel
 - given: Yves Van de
   family: Pee
 title: New challenges for feature selection in data mining and knowledge discovery
-conference: New challenges for feature selection in data mining and knowledge discovery
 email: ''
 description: New challenges for feature selection in data mining and knowledge discovery,
   Antwerp, Belgium
@@ -46,8 +43,15 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v4
+conference:
+  name: 
+  url: http://bioinformatics.psb.ugent.be/fsdm2008
+  location: Antwerp, Belgium
+  dates:
+  - 2008-09-15
 analytics:
   google:
     tracking_id: UA-92432422-1
