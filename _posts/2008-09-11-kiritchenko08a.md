@@ -13,7 +13,7 @@ abstract: 'Sponsored search is a new application domain for the feature selectio
   past users’ queries. Unlike previous work in this area, our approach not only  recognizes
   the most profitable keywords, but also discovers more specific combinations  of
   keywords and other relevant words.'
-pdf: http://jmlr.org/proceedings/papers/v4/kiritchenko08a/kiritchenko08a.pdf
+pdf: http://proceedings.mlr.press/v4/kiritchenko08a/kiritchenko08a.pdf
 layout: inproceedings
 id: kiritchenko08a
 month: 0
@@ -26,7 +26,6 @@ author:
   family: Kiritchenko
 - given: Mikhail
   family: Jiline
-reponame: v4
 date: 2008-09-11
 address: Antwerp, Belgium
 publisher: PMLR

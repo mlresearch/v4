@@ -9,7 +9,7 @@ shortname: FSDM
 start: 2008-09-15
 end: 2008-09-15
 published: 2008-09-11
-comments: 'no'
+comments: false
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
@@ -53,4 +53,3 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-reponame: v4
