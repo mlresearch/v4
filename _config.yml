@@ -1,8 +1,6 @@
-# Site settings
-# Auto generated from v4.bib
 ---
 booktitle: New challenges for feature selection in data mining and knowledge discovery
-series: Journal of Machine Learning Research - Proceedings Track
+series: Proceedings of Machine Learning Research
 volume: 4
 year: '2008'
 shortname: FSDM
@@ -53,3 +51,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v4.bib

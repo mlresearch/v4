@@ -15,6 +15,7 @@ abstract: 'Sponsored search is a new application domain for the feature selectio
   keywords and other relevant words.'
 pdf: http://proceedings.mlr.press/v4/kiritchenko08a/kiritchenko08a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: kiritchenko08a
 month: 0
 firstpage: 122
