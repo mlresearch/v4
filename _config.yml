@@ -1,5 +1,6 @@
 ---
-booktitle: New challenges for feature selection in data mining and knowledge discovery
+booktitle: Proceedings of the Workshop on New Challenges for Feature Selection in
+  Data  Mining and Knowledge Discovery at ECML/PKDD 2008
 series: Proceedings of Machine Learning Research
 volume: 4
 year: '2008'
@@ -29,10 +30,11 @@ editor:
   family: Wehenkel
 - given: Yves Van de
   family: Pee
-title: New challenges for feature selection in data mining and knowledge discovery
+title: Proceedings of the Workshop on New Challenges for Feature Selection in Data  Mining
+  and Knowledge Discovery at ECML/PKDD 2008
 email: ''
-description: New challenges for feature selection in data mining and knowledge discovery,
-  Antwerp, Belgium
+description: Proceedings of the Workshop on New Challenges for Feature Selection in
+  Data  Mining and Knowledge Discovery at ECML/PKDD 2008, Antwerp, Belgium
 url: http://proceedings.mlr.press
 baseurl: "/v4"
 twitter_username: mlresearch
@@ -43,7 +45,7 @@ github:
   edit: true
   repository: v4
 conference:
-  name: New challenges for feature selection in data mining and knowledge discovery
+  name: New Challenges for Feature Selection in Data Mining and Knowledge Discovery
   url: http://bioinformatics.psb.ugent.be/fsdm2008
   location: Antwerp, Belgium
   dates:
