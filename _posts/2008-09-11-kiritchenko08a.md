@@ -18,8 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kiritchenko08a
 month: 0
-firstpage: '122'
-lastpage: '134'
+firstpage: 122
+lastpage: 134
 page: 122-134
 sections: 
 author:
