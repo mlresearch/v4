@@ -58,6 +58,8 @@ github:
   edit: true
   repository: v4
 bibtex_copy: true
+endnote_copy: true
+apa_copy: true
 email: ''
 conference:
   name: New Challenges for Feature Selection in Data Mining and Knowledge Discovery
