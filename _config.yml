@@ -30,11 +30,22 @@ editor:
   family: Wehenkel
 - given: Yves Van de
   family: Pee
-title: Proceedings of the Workshop on New Challenges for Feature Selection in Data  Mining
-  and Knowledge Discovery at ECML/PKDD 2008
-email: ''
-description: Proceedings of the Workshop on New Challenges for Feature Selection in
-  Data  Mining and Knowledge Discovery at ECML/PKDD 2008, Antwerp, Belgium
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Workshop on New Challenges for Feature Selection in Data  Mining and Knowledge Discovery at ECML/PKDD 2008
+    Held in Antwerp, Belgium on 15 September 2008
+
+  Published as Volume 4 by the Proceedings of Machine Learning Research on 11 September 2008.
+
+  Volume Edited by:
+    Yvan Saeys
+    Huan Liu
+    Iñaki Inza
+    Louis Wehenkel
+    Yves Van de Pee
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v4"
 twitter_username: mlresearch
@@ -44,6 +55,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v4
+email: ''
 conference:
   name: New Challenges for Feature Selection in Data Mining and Knowledge Discovery
   url: http://bioinformatics.psb.ugent.be/fsdm2008
