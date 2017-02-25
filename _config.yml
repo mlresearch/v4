@@ -19,6 +19,8 @@ layout: proceedings
 id: SaeysYLHIIWLPd2008
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Yvan
   family: Saeys
@@ -30,7 +32,6 @@ editor:
   family: Wehenkel
 - given: Yves Van de
   family: Pee
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Workshop on New Challenges for Feature Selection in Data  Mining and Knowledge Discovery at ECML/PKDD 2008
     Held in Antwerp, Belgium on 15 September 2008

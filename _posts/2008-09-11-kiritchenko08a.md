@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kiritchenko08a
 month: 0
+tex_title: Keyword Optimization in Sponsored Search via Feature Selection
 firstpage: 122
 lastpage: 134
 page: 122-134
