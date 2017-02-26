@@ -22,7 +22,8 @@ tex_title: Keyword Optimization in Sponsored Search via Feature Selection
 firstpage: 122
 lastpage: 134
 page: 122-134
-sections: 
+order: 122
+cycles: false
 author:
 - given: Svetlana
   family: Kiritchenko

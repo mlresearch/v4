@@ -8,7 +8,7 @@ shortname: FSDM
 start: 2008-09-15
 end: 2008-09-15
 published: 2008-09-11
-comments: false
+comments: 'no'
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
@@ -21,6 +21,7 @@ month: 0
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Yvan
   family: Saeys
@@ -57,9 +58,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v4
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: New Challenges for Feature Selection in Data Mining and Knowledge Discovery
