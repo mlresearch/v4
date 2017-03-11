@@ -18,9 +18,6 @@ sections:
 layout: proceedings
 id: SaeysYLHIIWLPd2008
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Yvan
@@ -33,6 +30,7 @@ editor:
   family: Wehenkel
 - given: Yves Van de
   family: Pee
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Workshop on New Challenges for Feature Selection in Data  Mining and Knowledge Discovery at ECML/PKDD 2008
     Held in Antwerp, Belgium on 15 September 2008
@@ -51,7 +49,7 @@ description: |
 date_str: 15 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v4"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -63,6 +61,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -76,3 +75,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v4.bib
+---
