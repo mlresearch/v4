@@ -9,6 +9,9 @@ start: 2008-09-15
 end: 2008-09-15
 published: 2008-09-11
 comments: 'no'
+plugins:
+  - jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
 - name: preface
@@ -53,7 +56,7 @@ twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v4
 display:
