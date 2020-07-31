@@ -1,5 +1,6 @@
 ---
-booktitle: Proceedings of the Workshop on New Challenges for Feature Selection in Data Mining and Knowledge Discovery at ECML/PKDD 2008
+booktitle: Proceedings of the Workshop on New Challenges for Feature Selection in
+  Data Mining and Knowledge Discovery at ECML/PKDD 2008
 series: Proceedings of Machine Learning Research
 issn: 1938-7228
 volume: 4
@@ -10,7 +11,7 @@ end: 2008-09-15
 published: 2008-09-11
 comments: false
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 remote_theme: lawrennd/proceedings
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 sections:
@@ -76,6 +77,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
-# Auto generated from v4.bib
----
+# Original source:  /Users/neil/mlresearch/bibtex.bib
