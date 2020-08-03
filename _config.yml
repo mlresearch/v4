@@ -11,6 +11,8 @@ end: 2008-09-15
 published: 2008-09-11
 comments: false
 plugins:
+- jekyll-feed
+- jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
 bibsource: http://jmlr.csail.mit.edu/proceedings/
@@ -58,6 +60,7 @@ baseurl: "/v4"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+style: pmlr
 permalink: "/:title.html"
 ghub:
   edit: true
