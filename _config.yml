@@ -1,6 +1,7 @@
 ---
 booktitle: Proceedings of the Workshop on New Challenges for Feature Selection in
   Data Mining and Knowledge Discovery at ECML/PKDD 2008
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 publisher: PMLR
 series: Proceedings of Machine Learning Research
 issn: 1938-7228
@@ -61,6 +62,10 @@ baseurl: "/v4"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 style: pmlr
 permalink: "/:title.html"
 ghub:
@@ -83,6 +88,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
